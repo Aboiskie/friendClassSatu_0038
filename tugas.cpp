@@ -79,4 +79,7 @@ int main() {
     LayangLayang l;
     BelahKetupat b;
 
+    l.input();
+    l.output();
+
     
