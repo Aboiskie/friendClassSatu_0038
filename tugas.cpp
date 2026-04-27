@@ -45,3 +45,6 @@ private:
     float d1, d2;
     float sisi;
 
+public:
+    void input() {
+        
