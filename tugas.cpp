@@ -82,4 +82,8 @@ int main() {
     l.input();
     l.output();
 
-    
+    b.input();
+    b.output();
+
+    return 0;
+}
