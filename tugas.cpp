@@ -12,4 +12,7 @@ private:
 
 public:
     void input() {
+        cout << "=== Layang-Layang ===" << endl;
+        cout << "Masukkan diagonal 1: ";
+        cin >> d1;
         
